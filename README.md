@@ -102,7 +102,7 @@
 
     <h2>Learn More</h2>
     <p>
-        To explore the full capabilities of reverse video search, visit the official platform at <a href="https://reversevideosearch.app/">reverse video search</a>. It’s fast, accurate, and perfect for anyone who wants to uncover the story behind online videos.
+        To explore the full capabilities of reverse video search, visit the official platform at <a href="https://reversevideosearch.app/">reverse video search</a>. It’s fast, accurate, and perfect for anyone who wants to <a href="https://reversevideosearch.app/search-videos">search videos</a> and uncover the story.
     </p>
 </main>
 
